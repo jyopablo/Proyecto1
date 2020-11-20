@@ -1,0 +1,35 @@
+.jumbotron{
+	background-color: hsla(0,100%,50%,0.5);
+	text-align: center;
+	color: white;
+	padding-top: 10%;
+}
+
+button[type="button"]{
+background-color: hsla(284, 45%, 50%,1);
+}
+
+button[type="button"]:hover{
+border:2px solid;
+background-color: hsla(284, 45%, 50%,0.6);
+border-color: hsla(284, 45%, 25%,0.5);
+}
+
+button[type="button"]:focus{
+border:2px solid;
+background-color: hsla(284, 45%, 50%,1);
+border-color: hsla(284, 45%, 25%,0.5);
+}
+
+footer{
+	background-color: hsla(0,100%,50%,0.5); 
+}
+
+a{
+	color: black;
+}
+
+.footer-adress-icon{
+	padding-right: 10px;
+}
+
