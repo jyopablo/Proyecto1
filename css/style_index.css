@@ -6,7 +6,7 @@
 }
 
 button[type="button"]{
-background-color: hsla(284, 45%, 50%,1);
+background-color: hsla(300, 45%, 50%,1);
 }
 
 button[type="button"]:hover{
@@ -33,3 +33,6 @@ a{
 	padding-right: 10px;
 }
 
+.miga{
+	color: #1391F2;
+}
