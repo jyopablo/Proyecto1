@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/yopablo017/Proyecto1#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "node-sass": "^5.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.5.3",

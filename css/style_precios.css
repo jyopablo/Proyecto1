@@ -1,0 +1,15 @@
+button[type="button"]{
+background-color: hsla(121, 3%, 95%,0.3);
+}
+
+button[type="button"]:hover{
+border:2px solid;
+background-color: hsla(121, 3%, 95%,0.1);
+border-color: hsla(284, 45%, 25%,0.5);
+}
+
+button[type="button"]:focus{
+border:2px solid;
+background-color: hsla(121, 3%, 95%,0.1);
+border-color: hsla(284, 45%, 25%,0.5);
+}
